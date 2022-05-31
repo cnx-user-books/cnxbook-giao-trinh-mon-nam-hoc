@@ -1,0 +1,184 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Đại cương về nấm mốc</title>
+  <metadata>
+  <md:content-id>m30247</md:content-id><md:title>Đại cương về nấm mốc</md:title>
+  <md:abstract>Nấm mốc (fungus, mushroom) là vi sinh vật chân hạch, ở thể tản (thalophyte), tế bào không có diệp lục tố, sống dị dưỡng (hoại sinh, ký sinh, cộng sinh), vách tế bào cấu tạo chủ yếu là chitin, có hay không có celuloz và một số thành phần khác có hàm lượng thấp. 
+Nấm học (Mycology) được khai sinh bỡi nhà thực vật học người Ý tên là Pier Antonio Micheli (1729) qua tài liệu công bố “giống cây lạ” (Nova Plantarum Genera) nhưng theo Giáo sư Ekriksson Gunnan (1978) thì người có công nghiên cứu sâu về nấm mốc lại là Elias Fries (1794 - 1874).
+Theo Elizabeth Tootyll (1984) nấm mốc có khoảng 5.100 giống và 50.000 loài được mô tả, tuy nhiên, ước tính có trên 100.000 đến 250.000 loài nấm hiện diện trên trái đất.
+Nhiều loài nấm mốc có khả năng ký sinh trên nhiều ký chủ như động vật, thực vật, đặc biệt trên con người, cây trồng, vật nuôi, sản phẩm sau thu hoạch chưa hoặc đã qua chế biến, bảo quản. Một số là tác nhân gây bệnh, làm hư các thiết bị thủy tinh bảo quản không tốt nhưng cũng có nhiều loài có ích như tổng hợp ra acit hữu cơ, thuốc kháng sinh, vitamin, kích thích tố tăng trưởng thực vật đã được đưa vào sản xuất công nghiệp và có một số nấm được dùng làm đối tượng nghiên cứu về di truyền học.</md:abstract>
+  <md:uuid>0d049733-0aac-4e0b-8cb0-702633a73353</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-393777396657">
+      <title>Hình dạng, kích thước, cấu tạo của nấm mốc</title>
+      <section id="id-550663681544">
+        <title>Hình dạng và kích thước</title>
+        <para id="id6572452">Một số ít nâm ở thể đơn bào có hình trứng (yeast=nấm men), đa số có hình sợi (filamentous fungi=nấm sợi), sợi có ngăn vách (đa bào) hay không có ngăn vách (đơn bào). Sợi nấm thường là một ống hình trụ dài có kích thước lớn nhỏ khác nhau tùy loài. Đường kính của sợi nấm thường từ 3-5µm, có khi đến 10µm, thậm chí đến 1mm. Chiều dài của sợi nấm có thể tới vài chục centimet. Các sợi nấm phát triển chiều dài theo kiểu tăng trưởng ở ngọn (Hình 1.1). Các sợi nấm có thể phân nhánh và các nhánh có thể lại phân nhánh liên tiếp tạo thành hệ sợi nấm (mycelium) khí sinh xù xì như bông. Trên môi trường đặc và trên một số cơ chất trong tự nhiên, bào tử nấm, tế bào nấm hoặc một đoạn sợi nấm có thể phát triển thành một hệ sợi nấm có hình dạng nhất định gọi là khuẩn lạc nấm (Hình 1.2)</para>
+        <para id="id6572504">
+          <figure id="id6572530">
+            <media id="id7658211" alt=""><image src="../../media/graphics1-60de.jpg" mime-type="image/jpeg" height="257" width="268"/></media>
+          </figure>
+        </para>
+        <para id="id6572554">Hình 1.1 Sợi nấm và cấu tạo</para>
+        <para id="id6555808">vách tế bào sợi nấm</para>
+        <para id="id6555816">(theo Samson và ctv., 1995)</para>
+        <para id="id6555836">
+          <figure id="id6555861">
+            <media id="id7523387" alt=""><image src="../../media/graphics2-d9d4.jpg" mime-type="image/jpeg" height="419" width="320"/></media>
+          </figure>
+        </para>
+      </section>
+    </section>
+    <section id="id-125676483255">
+      
+      <para id="id6555895">Hình 1.2. Một số dạng khuẩn lạc nấm (theo Samson và ctv., 1995)</para>
+      <section id="id-73132281512">
+        <title>Cấu tạo</title>
+        <para id="id6555916">Tế bào nấm có cấu trúc tương tự như những tế bào vi sinh vật chân hạch khác được mô tả và trình bày như ở Hình 1.3</para>
+        <para id="id6555935">
+          <figure id="id6555960">
+            <media id="id1167249586982" alt=""><image src="../../media/graphics3-f1be.jpg" mime-type="image/jpeg" height="207" width="346"/></media>
+          </figure>
+        </para>
+        <para id="id6555985">Hình 1.3 Cấu tạo tế bào đỉnh sợi nấm Fusarium (theo Howard R J &amp; Heist J R., 1979) (Chú thích: MT: vi ống, M: ty thể, SC: bộ Golgi, V: bọng(túi) đỉnh, P: màng sinh chất 4 lớp) </para>
+        <para id="id6556041">Vách tế bào nấm cấu tạo bởi vi sợi chitin và có hoặc không có celluloz. Chitin là thành phần chính của vách tế bào ở hầu hết các loài nấm trừ nhóm Oomycetina. Những vi sợi chitin được hình thành nhờ vào enzim chitin syntaz (Hình 1.4).</para>
+        <para id="id6556067">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+       </para>
+        <para id="id6556101">Hình 1.4. Con đường tổng hợp chitin </para>
+        <para id="id6556122">Tế bào chất của tế bào nấm chứa mạng nội mạc (endoplasmic reticulum), không bào (vacuoles), ty thể (mitochondria) và hạt dự trữ (glycogen và lipid), đặc biệt cấu trúc ty thể ở tế bào nấm tương tự như cấu trúc ty thể ở tế bào thực vật. Ngoài ra, tế bào nấm còn có ribô thể (ribosomes) và những thể khác chưa rỏ chức năng.</para>
+        <para id="id6556139">Tế bào nấm không có diệp lục tố, một vài loài nấm có rải rác trong tế bào một loại sắc tố đặc trưng mà Matsueda và ctv. (1978) đầu tiên ly trích được và gọi là neocercosporin (C29H26O10) có màu tím đỏ ở nấm Cercosporina kikuchi.</para>
+        <para id="id7108862">Tế bào nấm không nhất thiết có một nhân mà thường có nhiều nhân. Nhân của tế bào nấm có hình cầu hay bầu dục với màng đôi phospholipid và protein dầy 0,02 m, bên trong màng nhân chứa ARN và ADN.</para>
+      </section>
+    </section>
+    <section id="id-45594895979">
+      <title>Dinh dưỡng và tăng trưởng của nấm mốc</title>
+      <para id="id7108900">Hầu hết các loài nấm mốc không cần ánh sáng trong quá trình sinh trưởng. Tuy nhiên, có một số loài lại cần ánh sáng trong quá trình tạo bào tử (Buller, 1950). Nhiệt độ tối thiểu cần cho sự phát triển là từ 2oC đến 5oC, tối hảo từ 22oC đến 27oC và nhiệt độ tối đa mà chúng có thể chịu đựng được là 35oC đến 40oC, cá biệt có một số ít loài có thể sống sót ở OoC và ở 60oC. Nói chung, nấm mốc có thể phát triển tốt ở môi trường acit (pH=6) nhưng pH tối hảo là 5 - 6,5, một số loài phát triển tốt ở pH &lt; 3 và một số ít phát triển ở pH &gt; 9 (Ingold, 1967).</para>
+      <para id="id7109007">Oxi cũng cần cho sự phát triển của nấm mốc vì chúng là nhóm hiếu khí bắt buộc và sự phát triển sẽ ngưng khi không có oxi và dỉ nhiên nước là yếu tố cần thiết cho sự phát triển. </para>
+      <para id="id7109020">Theo Alexopoulos và Minns (1979) cho biết nấm mốc có thể phát triển liên tục trong 400 năm hay hơn nếu các điều kiện môi trường đều thích hợp cho sự phát triển của chúng.</para>
+      <para id="id7109031">Nấm mốc không có diệp lục tố nên chúng cần được cung cấp dinh dưỡng từ bên ngoài (nhóm dị dưỡng), một số sống sót và phát triển nhờ khả năng ký sinh (sống ký sinh trong cơ thể động vật hay thực vật) hay hoại sinh (saprophytes) trên xác bã hữu cơ, cũng có nhóm nấm rễ hay địa y sống cộng sinh với nhóm thực vật nhất định.</para>
+      <para id="id7109078">Theo Alexopoulos và Mims (1979) cho biết nguồn dưỡng chất cần thiết cho nấm được xếp theo thứ tự sau: C, O, H, N P, K, Mg, S, B, Mn, Cu, Zn, Fe, Mo và Ca. Các nguyên tố này hiện diện trong các nguồn thức ăn vô cơ đơn giản như glucoz, muối ammonium... sẽ được nấm hấp thu dễ dàng, nếu từ nguồn thức ăn hữu cơ phức tạp nấm sẽ sản sinh và tiết ra bên ngoài các loại enzim thích hợp để cắt các đại phân tử này thành những phân tử nhỏ để dể hấp thu vào trong tế bào.</para>
+    </section>
+    <section id="id-804333111441">
+      <title>Sinh sản của nấm mốc </title>
+      <para id="id7109113">Nói chung, nấm mốc sinh sản dưới 2 hình thức: vô tính và hữu tính. Trong sinh sản vô tính, nấm hình thành bào tử mà không qua việc giảm phân, trái lại trong sinh sản hữu tính nấm hình thành 2 loại giao tử đực và cái. </para>
+      <section id="id-707076180296">
+        <title>Sinh sản vô tính</title>
+        <para id="id7109154">The Alexopoulos và Mims (1979), nấm mốc sinh sản vô tính thể hiện qua 2 dạng: sinh sản dinh dưỡng bằng đoạn sợi nấm phát triển dài ra hoặc phân nhánh và sinh sản bằng các loại bào tử.</para>
+        <para id="id7109166">Một số loài nấm có những bào tử đặc trưng như sau:</para>
+        <para id="id7109176">a. Bào tử túi (bào tử bọc)(sporangiospores): các bào tử động (zoospores) (Hình 1.5 a, b, c) có ở nấm Saprolegnia và bào tử túi (sporangiopores) ở nấm Mucor, Rhizopus (Hình 1.6) chứa trong túi bào tử động (zoosporangium) và túi bào tử (sporangium) được mang bỡi cuống túi bào tử (sporangiophores). </para>
+        <para id="id7109282">
+          <figure id="id5921377">
+            <media id="id1167244999486" alt=""><image src="../../media/graphics4-c78e.jpg" mime-type="image/jpeg" height="237" width="275"/></media>
+          </figure>
+        </para>
+        <para id="id5921401"/>
+        <para id="id5921410">Hình 1.5 Bào tử động (theo Samson và ctv., 1995) </para>
+        <para id="id5921449">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+        <para id="id5921498"/>
+        <para id="id5921510">Hình 1.6. Bào tử túi (b) ở Mucor circinelloides, a. cuống bào tử túi </para>
+        <para id="id5921548">(theo Samson và ctv., 1995)</para>
+        <para id="id5921576">b. Bào tử đính (conidium): các bào tử đính không có túi bao bọc ở giống nấm Aspergillus, Penicillium, ... Hình dạng, kích thước, màu sắc, trang trí và cách sắp xếp của bào tử đính thay đổi từ giống này sang giống khác và được dùng làm tiêu chuẩn để phân loại nấm.</para>
+        <para id="id5921608">Cuống bào tử đính dạng bình có thể không phân nhánh như ở Aspergillus (Hình 1.7) hay dạng thẻ phân nhánh như ở Penicillium (Hình 1.8). Bào tử đính hình thành từ những cụm (cluster) trên những cuống bào tử đính ở Trichoderma (Hình 1.9).</para>
+        <figure id="id5921677">
+          <media id="id1167245391556" alt=""><image src="../../media/graphics5-e3a6.png" mime-type="image/png" height="414" width="630"/></media>
+        </figure>
+        <para id="id5921701">Hình 3.3. Các kiểu cuống bào tử đính của Aspergillus. a. 1 lớp, b. 2 lớp, c. phiến, d. tia, e. tể (theo Samson và ctv., 1995) </para>
+        <figure id="id5921767">
+          <media id="id1167247705385" alt=""><image src="../../media/graphics6-158b.png" mime-type="image/png" height="329" width="533"/></media>
+        </figure>
+        <para id="id5921790">Hình 1.8. Bào tử đính và cuống bào tử đính ở Penicillium chrysogenum (theo Samson và ctv. 1995)</para>
+        <para id="id5922586">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+        <para id="id5922612">Hình 1.9. Cuống bào tử phân nhánh ở Trichoderma. a. T. viride, b. T. koningii,</para>
+        <para id="id5922676">c. T. polysporum, d. T. citrinoviride (theo Samson v à ctv. 1995)</para>
+        <para id="id5922712">Ở giống Microsporum và Fusarium, có hai loại bào tử đính: loại nhỏ, đồng nhất gọi là tiểu bào tử đính (microconidia) (Hình 1.10 a) , loại lớn, đa dạng gọi là đại bào tử đính (macroconidia) (Hình 1.11 b)</para>
+        <figure id="id5922794">
+          <media id="id1387566" alt=""><image src="../../media/graphics7-e2ed.png" mime-type="image/png" height="257" width="478"/></media>
+        </figure>
+        <para id="id5922818">c. Bào tử tản (Thallospores): trong nhiều loài nấm men và nấm mốc có hình thức sinh sản đặc biệt gọi là bào tử tản. Bào tử tản có thể có những loại sau:</para>
+        <list id="id5922840" list-type="enumerated">
+          <item>Chồi hình thành từ tế bào nấm men: Cryptococcus và Candida là những loại bào tử tản đơn giản nhất, gọi là bào tử chồi (blastospores) </item>
+          <item>Giống Ustilago có những sợi nấm có xuất hiện tế bào có vách dầy gọi là bào tử vách dầy còn gọi là bào tử áo (chlamydospores) (Hình 1. 11 c). Vị trí của bào tử vách dầy ở sợi nấm có thể khác nhau tùy loài.</item>
+        </list>
+        <para id="id5922932">3. Giống Geotrichum và Oospora có sợi nấm kéo thẳng, vuông hay chử nhật và tế bào vách dầy gọi là bào tử đốt (arthrospores) (Hình 1.12)</para>
+        <para id="id5922985">
+          <figure id="id5923010">
+            <media id="id8778568" alt=""><image src="../../media/graphics8-5335.jpg" mime-type="image/jpeg" height="291" width="251"/></media>
+          </figure>
+        </para>
+        <para id="id5919721">Hình 1.12 Bào tử đốt (theo Samson và ctv. </para>
+        <para id="id5919740">1995) </para>
+      </section>
+      <section id="id-722148645752">
+        <title>Sinh sản hữu tính</title>
+        <para id="id5919761">Sinh sản hữu tính xảy ra khi có sự kết hợp giữa hai giao tử đực và cái (gametes) có trải qua giai đoạn giảm phân. Quá trình sinh sản hữu tính trải qua 3 giai đoạn: </para>
+        <list id="id5919775" list-type="bulleted">
+          <item>Tiếp hợp tế bào chất (plasmogamy) với sự hòa hợp 2 tế bào trần (protoplast) của 2 giao tử</item>
+          <item>Tiếp hợp nhân (karyogamy) với sự hòa hợp 2 nhân của 2 tế bào giao tử để tạo một nhân nhị bội (diploid)</item>
+          <item>Giảm phân (meiosis) giai đoạn này hình thành 4 bào tử đơn bội (haploid) qua sự giảm phân từ 2n NST (nhị bội) thành n NST (đơn bội).</item>
+        </list>
+        <para id="id5919822">Theo Machlis (1966) tất cả các giai đoạn trên kể cả giai đoạn tạo cơ quan sinh dục được điều khiển bởi một số kích thích tố sinh dục (sexual hormones).</para>
+        <para id="id5919844">Cơ quan sinh dục của nấm mốc có tên là túi giao tử (gametangia) có 2 loại: cơ quan sinh dục đực gọi là túi đực (antheridium) chứa các giao tử đực (antherozoids), còn cơ quan sinh dục cái gọi túi noãn (oogonium) chứa giao tử cái hay noãn, khi có sự kết hợp giữa giao tử đực và noãn sẽ tạo thành bào tử, bào tử di động được gọi là bào tử động (zoospores).</para>
+        <para id="id5919928">Kiểu hai sợi nấm có giới tính đực và cái tiếp hợp nhau sinh ra bào tử có tên là tiếp hợp tử (myxospores), tiếp hợp tử là đặc trưng của nhóm nấm Myxomycetes (Hình 1.13).</para>
+        <para id="id5919968">Bào tử sinh dục khi hình thành có dạng túi gọi là nang (ascus) và túi này chứa những bào tử gọi là bào tử nang (ascospores). Nang và bào tử nang là đặc trưng của nhóm Ascomycetes (Hình 1.14) .</para>
+        <para id="id5920000">Trong nhóm Basidiomycetes, 4 bào tử phát triển ở phần tận cùng của cấu trúc thể quả gọi là đãm (basidium) và bào tử được gọi là bào tử đãm (basidiospores) (Hình 1.15)</para>
+        <para id="id5920031">Nhóm Nấm bất toàn (Deuteromycetes=Deuteromycotina)) gồm những nấm cho đến nay chưa biết rõ kiểu sinh sản hữu tính của chúng.</para>
+        <para id="id5920043">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+        <para id="id5920092">Hình 3.2.1 Các kiểu hình thành tiếp hợp tử ở Mucoraceae. a-f. Rhizopus. </para>
+        <para id="id5920110">g-h. Zygorhynchus, i. Absidia, j. Phycomyces (theo Talbot, 1995) </para>
+        <figure id="id5920129">
+          <media id="id8441550" alt=""><image src="../../media/graphics9-6c6b.jpg" mime-type="image/jpeg" height="187" width="449"/></media>
+        </figure>
+        <para id="id5920156">Hình 1.13. Bào tử nang ở Saccharomyces cerevisiae (theo Samson và </para>
+        <para id="id6581905">ctv. 1995)</para>
+        <para id="id6581912">
+          <figure id="id6581937">
+            <media id="id1167248022188" alt=""><image src="../../media/graphics10-cdb0.jpg" mime-type="image/jpeg" height="307" width="301"/></media>
+          </figure>
+        </para>
+        <para id="id6581964">Hình 1.14. Các kiểu bào tử đảm. a. Astrea, b. Bovista, c. Agaricales, </para>
+        <para id="id6582010">d. Clavulina, e. Dacrymyces, f. Sistotrema, g. Repetobasidium, h. Xenasma, </para>
+        <para id="id6582064">i-n. bào tử đảm có vách, n. Puccinia. (theo Kreisel, 1995) </para>
+      </section>
+    </section>
+    <section id="id-32516534764">
+      <title>Vị trí và vai trò của nấm mốc</title>
+      <para id="id6582096">Nấm mốc có ảnh hưởng xấu đến cuộc sống con người một cách trực tiếp bằng cách làm hư hỏng, giảm phẩm chất lương thực, thực phẩm trước và sau thu hoạch, trongchế biến, bảo quản. Nấm mốc còn gây hư hại vật dụng, quần áo... hay gây bệnh cho người, động vật khác và cây trồng. Tuy nhiên, các qui trình chế biến thực phẩm có liên quan đến lên men đều cần đến sự có mặt của vi sinh vật trong đó có nấm mốc. Nấm mốc cũng giúp tổng hợp những loại kháng sinh (penicillin, griseofulvin), acit hữu cơ (acit oxalic, citric, gluconic...), vitamin (nhóm B, riboflavin), kích thích tố (gibberellin, auxin, cytokinin), một số enzim và các hoạt chất khác dùng trong công nghiệp thực phẩm và y, dược ... đã được sử dụng rộng rãi trên thế giới. Ngoài ra, nấm còn giử vai trò quan trọng trong việc phân giải chất hữu cơ trả lại độ mầu mỡ cho đất trồng.</para>
+      <para id="id6582131">Một số loài thuộc giống Rhizopus, Mucor, Candida gây bệnh trên người, Microsporum gây bệnh trên chó, Aspergillus fumigatus gây bệnh trên chim; Saprolegnia và Achlya gây bệnh nấm ký sinh trên cá. Những loài nấm gây bệnh trên cây trồng như Phytophthora, Fusarium, Cercospora.... đặc biệt nấm Aspergilus flavus và Aspergillus fumigatus phát triển trên ngũ cốc trong điều kiện thuận lợi sinh ra độc tố aflatoxin.</para>
+      <para id="id6582231">Bên cạnh tác động gây hại, một số loài nấm mốc rất hữu ích trong sản xuất và đời sống như nấm ăn, nấm dược phẩm (nấm linh chi, Penicillium notatum tổng hợp nên penicillin, Penicillium griseofulvum tổng hợp nên griseofulvin...), nấm Aspergillus niger tổng hợp các acit hữu cơ như acit citric, acit gluconic, nấm Gibberella fujikuroi tổng hợp kích thích tố gibberellin và một số loài nấm thuộc nhóm Phycomycetina hay Deuteromycetina có thể ký sinh trên côn trùng gây hại qua đó có thể dùng làm thiên địch diệt côn trùng. Ngoài ra, những loài nấm sống cộng sinh với thực vật như Nấm rễ (Mycorrhizae), giúp cho rễ cây hút được nhiều hơn lượng phân vô cơ khó tan và cung cấp cho nhu cầu phát triển của cây trồng.</para>
+      <para id="id6582303">Nấm còn là đối tượng nghiên cứu về di truyền học như nấm Neurospora crassa, nấm Physarum polycephalum dùng để tổng hợp ADN và những nghiên cứu khác.</para>
+    </section>
+    <section id="id-423731432346">
+      <title>Phân loại nấm mốc</title>
+      <para id="id6582342">Đầu tiên, nấm được sắp xếp theo tiến hóa như mô hình dưới đây: (Hình 1.15)</para>
+      <para id="id6582362">Dayal (1975) liệt kê 7 đặc tính để phân loại nấm mốc như sau:</para>
+      <list id="id6582370" list-type="enumerated">
+        <item>đặc điểm hình thái</item>
+        <item>ký chủ đặc thù</item>
+        <item>đặc điểm sinh lý</item>
+        <item>đặc điểm tế bào học và di truyền học</item>
+        <item>đặc điểm kháng huyết thanh</item>
+        <item>đặc tính sinh hóa chung</item>
+        <item>phân loại số học</item>
+      </list>
+      <para id="id6582415">
+        <figure id="id6582440">
+          <media id="id1167245975302" alt=""><image src="../../media/graphics11-94d1.jpg" mime-type="image/jpeg" height="401" width="564"/></media>
+        </figure>
+      </para>
+      <para id="id6571487"/>
+      <para id="id6571497"/>
+      <para id="id6571506">Hình 1.15 Cây di truyền phát sinh ngành cho thấy nấm mốc có mối liên hệ gần với </para>
+      <para id="id6571527">thực vật (PLANTAE) và động vật (ANIMALIA) (theo Hawkswort và </para>
+      <para id="id6571539">ctv., 1995)</para>
+      <para id="id6571551">Theo Gwynne-Vaughan và Barnes (1937) chia nấm thành 3 lớp chính: Phycomycetes, Ascomycetes và Basidiomycetes dựa trên khuẩn ty có vách ngăn ngang hay không và đặc điểm của bào tử. Theo Stevenson (1970) đã phân loại nấm trong ngành Mycota gồm 6 lớp: Chytridiomycetes, Oomycetes, Zygomycetes, Ascomycetes, Basidiomycetes, và Deuteromycetes. Gần đây, Kurashi (1985) nhấn mạnh đến tầm quan trọng của hệ thống ubiquinon trong phân loại nấm mốc cũng như ứng dụng kỹ thuật sinh học phân tử để khảo sát đa dạng di truyền và qua mối liên hệ di truyền phân loại lại cho chính xác hơn. </para>
+    </section>
+  </content>
+</document>

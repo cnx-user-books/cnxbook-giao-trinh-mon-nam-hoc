@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vai trò hữu dụng của nấm trong chế biến thực phẩm</title>
+  <metadata>
+  <md:content-id>m30069</md:content-id><md:title>Vai trò hữu dụng của nấm trong chế biến thực phẩm</md:title>
+  <md:abstract>Đây là tài liệu về vai trò hữu dụng của nấm trong chế biến thực phẩm</md:abstract>
+  <md:uuid>185cac80-3329-41a7-84ad-114038850c34</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-208806960424">
+      <title>GIỚI THIỆU</title>
+      <para id="id3196741">Sự phát triển và hoạt động trao đổi chất của nấm (nấm men và nấm mốc) trong thực phẩm có thể có những ảnh hưởng khác nhau. Mặt khác hoạt động của nấm đã được khai thác bởi con người cho muc đích sản xuất và chế biến thực phẩm. Thực tiển thu được quả thể nấm rơm cũng như sự ứng dụng nấm mốc để chuẩn bị thực phẩm lên men đã trãi qua nhiều thế kỷ. Gần đây là nấm sợi cũng như nấm men đã được nuôi cấy để thu được thực phẩm dinh dưỡng giàu đạm cho con người và vật nuôi. Nấm đóng vai trò quan trọng trong sự lên men công nghiệp để tạo ra nhiều loại phân hoá tố (enzim) và các chất hữu cơ khác. Nhiều trong số này được ứng dụng như thành phần của thức ăn. Gần đây nhất, kỹ thuật tái tổ hợp DNA đã trở nên phổ biến để bổ sung những đặc tính của nấm. Một vài ứng dụng cho công nghệ thực phẩm sẽ được đề cập.</para>
+    </section>
+    <section id="id-155867360537">
+      <title>Thực phẩm lên men bởi nấm </title>
+      <para id="id3196795">Lên men là một trong những kỹ thuật lâu đời nhất của sự chế biến thực phẩm và mang tầm quan trọng kinh tế to lớn. Sự xuất hiện, qui trình chế biến, và sử dụng của thực phẩm lên men đã được viết nhiều (Campbell-platt 1987, Steinkraus 1997). Một vài sản phẩm lên men (phó-mat, bia, rượu, nứơc tương) đã có kinh nghiệm sản xuất một lượng lớn, với việc sử dụng giống chủng ưu việt, mặt khác nhiều thực phẩm lên men hãy còn được sản xuất sử dụng kỹ thuật truyền thống lâu đời dưới những điều kiện đơn giản hoặc ngay cả nguyên sơ.</para>
+      <para id="id3196827">Do nhiều nguyên nhân, của nền kinh tế và tính chất yêu cầu của sản phẩm, hầu hết việc lên men thực phẩm không thể tiến hành một cách lợi nhuận dưới điều kiện vô trùng. Thực phẩm lên men vì thế có thể chứa đựng nhiều vi khuẩn, nấm men và nấm mốc, xuất xứ từ vất liệu thô, giống chủng, sự nhiễm trong tiến trình. </para>
+      <para id="id3196843">Bảng 7.1. Thực phẩm (chọn lọc) lên men bởi giống hỗn hợp (nấm mốc, nấm men, vi khuẩn)</para>
+      <table id="id3196858" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Nấm mốc</entry>
+              <entry>Nấm men</entry>
+              <entry>Vi khuẩn</entry>
+              <entry>Cơ chất</entry>
+              <entry>sản phẩm</entry>
+              <entry>sử dụng</entry>
+              <entry>nguồn gốc</entry>
+            </row>
+            <row>
+              <entry>Actinomucor elegans</entry>
+              <entry/>
+              <entry/>
+              <entry>Đậu hũ</entry>
+              <entry>chao</entry>
+              <entry>thực phẩm đạm</entry>
+              <entry>Trung Quốc, VN</entry>
+            </row>
+            <row>
+              <entry>Amylomyces rouxii</entry>
+              <entry>Endomyces spp. Hyphopichia spp.</entry>
+              <entry>Pediococcus spp.Enterococcus spp.</entry>
+              <entry>gạo (không nấu)</entry>
+              <entry>Ragi</entry>
+              <entry>giống chủng làm rượu</entry>
+              <entry>Phương Đông</entry>
+            </row>
+            <row>
+              <entry>Aspergillus oryzaeA. soyae</entry>
+              <entry>Zyg. rouxiiTorulopsis spp.</entry>
+              <entry>Tetragenococcus halophila; Ent. faecalis</entry>
+              <entry>đậu nành + gạo/lúa mạch</entry>
+              <entry>Miso</entry>
+              <entry>đồ gia vị</entry>
+              <entry>Phương Đông</entry>
+            </row>
+            <row>
+              <entry>A. oryzaeA. soyae group</entry>
+              <entry>Zyg. rouxii, Zyg. soyzae, Hansennula spp., Torulopsis spp., Candida spp.</entry>
+              <entry>Lactobacillus delbrueckii, Tet. halophilaPed. damnosus</entry>
+              <entry>đậu nành + lúa mì + muối</entry>
+              <entry>Nước tương</entry>
+              <entry>đồ gia vị</entry>
+              <entry>Phương Đông</entry>
+            </row>
+            <row>
+              <entry>A. oryzae</entry>
+              <entry>Hans. anomala,Sacch. Cerevisae (saké)</entry>
+              <entry>Leuc. mesenteroi-des var saké, Lb. saké</entry>
+              <entry>gạo nấu</entry>
+              <entry>Saké</entry>
+              <entry>rượu </entry>
+              <entry>Nhật </entry>
+            </row>
+            <row>
+              <entry>Monascus purpureusM. rubber,M. pilosius</entry>
+              <entry/>
+              <entry/>
+              <entry>gạo nấu</entry>
+              <entry>Ang-kak(gạo lên men với mốc đỏ)</entry>
+              <entry>chất tạo màu,đồ gia vị,thành phần bổ dưỡng</entry>
+              <entry>Trung Quốc, Nhật</entry>
+            </row>
+            <row>
+              <entry>Penicillum roqueforti</entry>
+              <entry>Yarrowia lipolytica</entry>
+              <entry>Leuconostoc spp.</entry>
+              <entry>Bánh sữa (hoa sữa ép)</entry>
+              <entry>Phó-mát kiểu roquefort</entry>
+              <entry>thực phẩm đạm, đồ gia vị</entry>
+              <entry>Pháp</entry>
+            </row>
+            <row>
+              <entry>P. camemberti</entry>
+              <entry>Candida spp.Kluyveromyces spp.Torulopsis spp</entry>
+              <entry>Brevibacterium linensLc. lactis ssp cremoris</entry>
+              <entry>Bánh sữa (hoa sữa ép) </entry>
+              <entry>Phó-mát kiểu Camem-bert</entry>
+              <entry>thực phẩm đạm, đồ gia vị</entry>
+              <entry>Pháp</entry>
+            </row>
+            <row>
+              <entry>P. nalgiovenseP. chrysogenum</entry>
+              <entry/>
+              <entry>Mirococcus spp.Staphylococcus spp.Pediococcus spp.Lactobacillus spp.</entry>
+              <entry>thịt (xúc xích)</entry>
+              <entry>Salani</entry>
+              <entry>thực phẩm đạm</entry>
+              <entry>Châu Âu</entry>
+            </row>
+            <row>
+              <entry>Rh. oligoporusRh. chinensis,Rh. oryzae,Mucor indicus</entry>
+              <entry>Trichosporon beigelii,Clavispora lusitaniase,Yar. lipolytica</entry>
+              <entry>Klebsiella pneumoniaeEnterobacter cloacae,Lactobacillus spp.</entry>
+              <entry>đậu nành </entry>
+              <entry>Tempeh</entry>
+              <entry>thực phẩm đạm,thức ăn nhanh</entry>
+              <entry>Indonesisa</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3227180">Ở thực phẩm lên men nấm đa giống chủng, sự kích thích từ chất chuyển hoá bởi sự phân giải tương hỗ của cơ chất hoặc bởi sự phóng thích của các sản phẩm phân giải; hoặc sự ức chế bởi sự cạnh tranh sự tạo thành của chất kháng sinh hoặc chất trao đổi kháng vi sinh là các yếu tố quan trọng của sự cân bằng của các quần thể vi sinh vật (Nout, 1995). Theo tính tự nhiên vật lý của cơ chất, sự lên men có thể được phân biệt thành lên men bề sâu hay lên men chìm (liquid fermentation) và lên men bề mặt (solid-state fermentation). Trong lên men bề sâu, chất lỏng phục vụ như một môi trường cho sự phân bố đồng nhất của vi sinh vật và cho sự truyền nhiệt và truyền khối. Lên men bề sâu được sử dụng cho việc chế biến nước giải khát và nước sốt (sauces).</para>
+      <para id="id3227207">Bảng 1 liệt kê vài thực phẩm lên men trong đó nấm đóng một vai trò thiết yếu. </para>
+      <para id="id3227216">Thêm vào đó, vật liệu thô của chúng, vi sinh vật lên men đại diện, kiểu của hệ thống lên men (bề sâu hoặc bề mặt) và liên hệ đến nhóm hệ vi sinh vật cho sự lên men thành công cũng được liệt kê. Ở vùng ôn đới, thịt làm chín bởi nấm mốc và phó-mát là chiếm ưu thế bởi Aspergillus và Penicillium spp. Nấm men đóng vai trò trong các sản phẩm nướng và nước giải khát có cồn. Ở những vùng nhiệt đới và cận nhiệt đới, thực phẩm lên men nấm chiếm ưu thế ở đông và đông nam châu Á. Rhizopus, Amylomyces, Mucor, Neurospora, and Monascus spp. thường được tìm thấy như hệ vi sinh vật chức năng. Các sản phẩm lên men bởi nấm men từ vùng nhiệt đới bao gồm thức ăn nhanh và nước giải khát có cồn. Sau đây là một vài thực phẩm lên men chọn lọc.</para>
+      <section id="id-88107237763">
+        <title>Rượu</title>
+        <para id="id3227292">Sự đa dạng của rượu không chỉ vì nhiều hơn 5.000 loại nho (Vitis vinifera) mà còn đặc biệt đến điều kiện trồng trọt (địa điểm, đất, khí hậu) và điều kiện lên men. Nguyên tắc cơ bản của làm rượu được tóm tắt ở hình 7.1</para>
+        <para id="id3227319">Nho phải là không bị lên mốc, trừ phi sự chế biến của rượu ngọt “Sauterne” loại này đòi hỏi mốc Botrytis cinerea. Rượu đỏ thì thông thường lên men “trên lớp vỏ”. Thường thì SO2 được thêm vào 100-150mg/lít để ức chế sự phát triển của nấm men biểu sinh (Candida, Hanseniaspora, Kloeckera, Pichia, Rhodotorula, Saccharomyces, Torulopsis spp.) Điều này sẽ thúc đẩy sự chiếm ưu thế tốt của nấm men rượu chọn lọc (Saccharomyces cerevisae thường đồng hành với Torulopsis stellata) (cho vào sấp xỉ 106/ml dịch nho. Lưu ý rằng nấm men tạo mùi (hương vị) là cân bằng với nấm men chức năng cho sự lên men rượu. Khi tất cả đường lên men đã cạn kiệt thì sự lên men rượu dừng lại và nấm men được lấy ra để ngăn cản sự mất mùi từ sự tự phân giải của nấm men. Ở rượu axit cao, vi khuẩn axit lactic (Oenococcus oeni) được chủng để biến đổi axit malic thành axit lactic, vì thế cho ra rượu vị ngọt hơn. </para>
+      </section>
+      <section id="id-617955948901">
+        <title>Phó-mát Camembert </title>
+        <para id="id3227432">Đây là một của nhiều phó-mát bề mặt chín. Có nguồn gốc từ Normandy, Pháp lần đầu tiên nó được làm bởi Marie Harel vào năm 1791. Năm 1890, M. Ridel phát triển hộp gỗ nổi tiếng tạo điều kiện xuất khẩu với lượng lớn.</para>
+        <para id="id3227445">Nguyên tắc cơ bản của sản xuất phó-mát Camembert được viết ra như ở hình 7.2. Sau khi sữa đông còn rất non (ép thành bánh sữa), nó được chủng giống bởi bào tử của Penicillium camembert bằng cách phun như sương mù. Sau khi ngâm trong nước muối và đưa vào điều kiện thích hợp, sự phát triển của mốc bắt đầu tại bề mặt phó-mát trong suốt giai đoạn ủ. Vỏ cứng của phó-mát Camembert thì mỏng và trắng. Các dòng mốc chủng khác nhau có màu sắc trong khoảng từ xám lục nhạt tới trắng tinh. Bên trong của phó-mát phải là vàng nhạt với trung tâm màu trắng rắn chắc. Trong quá trình chín, các phân hoá tố (enzim) thuỷ phân đạm và chất béo của P. camemberti khuyếch tán vào trong phó-mát. </para>
+        <figure id="id3227492">
+          <media id="id6005405" alt=""><image src="../../media/graphics1-2f0b.png" mime-type="image/png" height="533" width="350"/></media>
+        </figure>
+        <para id="id3227516">Hình 7.1. Qui trình làm rượu nho</para>
+        <para id="id3227522">Nhưng tính xốp mềm là vì pH tăng lên gây ra bởi sự phóng thích của NH3, nấm men, đặc biệt là Debaryomyces hansenii, thường hiện diện trong phó-mát và cũng góp phần làm tăng pH bởi vì sự tiêu thụ của axít lactic. Các phản ứng thuỷ phân đạm và hoạt động của enzim aminotransferase đóng góp phần lớn vào sự phát triển hương vị. Thông thường sản phẩm được tiêu thụ sau 3-5 tuần. Kiểm định giống thuần chủng, tất cả các dòng P. camemberti được biết là có khả năng sản xuất ra độc tố nấm (mycotoxin) axit cyclopiazonic (CPA). Chất này xem ra mang đặc tính bền bởi vì các dòng thu thập nuôi cấy lâu đã không mất đi khả năng tạo ra CPA. Nhiều nổ lực đã tiến hành để đạt được các dòng đột biến CPA âm tính và các giống chủng đã được tuyển chọn theo tiêu chuẩn này. Cơ hội rủi ro của viêc ngộ độc là rất nhỏ. Chỉ mức độ rất thấp của CPA có thể được phát hiện ra ở phó-mát Camembert. Điều này được giải thích bởi sự không ổn định về hoá học của nó trong sự hiện diện của chất amines và sự khuyếch tán nghèo nàn từ vỏ cứng vào bên trong. Hơn nữa, CPA thì khó được tạo ra tại nhiệt độ bảo quản &lt;15°C.</para>
+        <para id="id3227603">
+          <media id="id4305415" alt=""><image src="../../media/graphics2-997a.png" mime-type="image/png" height="501" width="356"/></media>
+        </para>
+        <para id="id3227637">Hình 7.2. Quy trình chế biến phó-mát Camembert</para>
+      </section>
+      <section id="id-120310121947">
+        <title>Chao (sufu)</title>
+        <para id="id3227654">Chao (sufu) cũng được viết như fu-ru, là do hoa sữa đậu nành lên men mốc có mùi khá nặng (Su, 1986). Chao được sản xuất chủ yếu ở Trung Quốc cho tiêu thụ nội địa và xuất khẩu, sản lượng hàng năm ước tính ít nhất 300 triệu tấn. Chao được tiêu thụ như một chất gia vị, ví dụ với cơm điểm tâm sáng hoặc bánh mì hấp. </para>
+        <para id="id3227673">Chao được làm từ khối đậu hũ (thu được từ kết tũa sữa đậu nành). Đậu hũ được dùng làm chao cứng hơn bởi ép hoặc được sử lý hơi nóng nhanh, và tuần tự được chủng giống trên bề mặt và ủ ở ẩm độ cao tại nhiệt độ 20-35°C, tuỳ thuộc vào địa điểm và mùa (trong năm). Các loại nấm mốc tham gia chủ yếu là Actinomucor và Mucor spp. Những nhà máy sản xuất lớn có sử dụng giống thuần chủng, chẳng hạn như Actinomucor elegans, ngược lại tại các cơ sở sản xuất nhỏ, sử dụng rơm lên mốc để chủng lên khối đậu hũ với một hệ vi sinh vật hỗn hợp của nấm mốc và vi khuẩn. Actinomucor elegans không phát triển tốt ở nhiệt độ vượt quá 25°C, các mốc khác ví dụ như Mucor hiemalis hoặc Rhizopus chinensis được sử dụng ở nhiệt độ cao hơn. Sau vài ngày khối đậu hũ được bao phủ với một lớp dầy của sợi nấm như bông gòn. Sản phẩm trung gian được gọi là pehtze-đậu hũ lên mốc. Pehtze đã trở thành một nguồn enzim thuỷ phân đạm, và đạm đậu nành phần lớn đã được phân cắt.</para>
+        <para id="id3227768"/>
+        <para id="id3227772">Bước kế tiếp muối và ngâm nước muối với mục đích bảo quản sản phẩm trong khi đó cho phép sự trưởng thành về mặt enzim mà cuối cùng sẽ cho ra cấu trúc mềm, mùi và vị nặng theo yêu cầu. Sử lý đầu tiên với muối (hạt, bọt) với mục đích là làm tăng lên nhanh chóng hàm lượng muối khoảng 15%. Bước kế tiếp các pehtze muối được đặt vào các keo/lọ và bơm đầy với nước muối hoặc hỗn hợp nước chan để chao chín . Thành phần của nước muối để chao chín ảnh hưởng mạnh mẽ đến tính chất của sản phẩm cuối cùng. Nó luôn chứa 10-12% NaCl, và rượu gạo 10% hàm lượng ethanol. Sản phẩm rất nổi tiếng là chao đỏ, trong nước ngâm chao này có chứa ang-kak (xem Bảng 8.1). Ang-kak không chỉ cho sắc tố cam và đỏ mà còn chứa đựng nhiều phân hoá tố (enzim) tích cực góp phần vào sự phân cắt và tạo hương vị của chao. Chao có thể có sự hiện diện của vi khuẩn Tetragenococcus halophila. Sau nhiều tháng để chín, các keo được làm sạch bên ngoài, dán nhãn và phân phối cho việc tiêu thụ. </para>
+      </section>
+      <section id="id-534031573347">
+        <title>Tempeh</title>
+        <para id="id3227834">Tempeh có nguồn gốc từ Java, Indonesia nhưng cũng được phổ biến ở Hà Lan và nó đã đạt được thị trường tiêu thụ đáng kể ở Mỹ, châu Âu và Úc. Tempeh là một bánh có thể thái (cắt) được, thu được bởi phương pháp lên men bề mặt với nấm của những hạt đậu, ngũ cốc hoặc vật liệu phù hợp khác sau khi đã ngâm rồi nấu. Cơ chất được dùng nhiều và phổ biến nhất là đậu nành (Nout and Rombouts, 1990; Wood, 1998). Tempeh cung cấp một nguồn đạm thực vật rẻ tiền giàu dinh dưỡng dễ tiêu hoá và an toàn. Nó thường được ăn chỉ khi sau khi nấu hoặc rán/chiên trong dầu. Qui trình chế biến truyền thống được trình bày ở Hình 7.3. Đậu nành được ngâm và tách vỏ, hoặc tách vỏ khô trước rồi ngâm (cơ giới hoá như ở Hà lan). Trong quá trình ngâm sự lên men lactic tự nhiên diễn ra làm hạ thấp pH của đậu, làm cho chúng phù hợp hơn cho sự phát triển của nấm mốc và chống lại vi khuẩn gây hư hỏng và các mầm bệnh.</para>
+        <para id="id3227872">Sau khi nấu sôi và làm nguội, đậu được chủng giống truyền thống “usar” (Rhizopus spp. hiện diện trên lá cây Hisbiscus, hoặc giống thuần chủng trong bột gạo hoặc bột khoai mì. Mốc chức năng chính yếu là Rhizopus oligosporus và R.oryzae, chúng nảy mầm nhanh ở 37°C và sự phát triển sợi nấm nhanh của chúng đảm bảo sự chiếm ưu thế và lấn át các dòng tạm nhiễm khác như Aspergillus spp. trong vòng 30 giờ các đậu rời rạc đã được kết chặt lại nhau tạo thành khối rắn. R.oligosporus được khảo sát là thâm nhập khoảng 2mm vào sâu bên trong đậu nấu.</para>
+        <para id="id3227954">Hoạt động enzim của Rhizopus spp. bao gồm enzim thuỷ phân protein, enzim thuỷ phân chất béo, enzim thuỷ phân các hơp chất các-bon và phosphatase. Nhờ hoạt động của các enzim này, một phần các cơ chất mạch dài bị thuỷ phân thúc đẩy cho sự tiêu hoá dễ dàng. </para>
+        <para id="id3227981">Qui trình mới cải tiến đã được báo cáo bao gồm tiến trình bán liên tục cho lên men tempeh với nhiệt độ được điều khiển trong thùng lên men xoay vòng. </para>
+        <figure id="id3227996">
+          <media id="id1307439" alt=""><image src="../../media/graphics3-58e0.png" mime-type="image/png" height="457" width="297"/></media>
+        </figure>
+        <para id="id3228020">Hình 7.3. Quy trình chế biến tempeh</para>
+      </section>
+      <section id="id-775295581262">
+        <title>Nước tương đậu nành</title>
+        <para id="id3228037">Nước tương đậu nành lên men có nguồn gốc từ Trung Quốc. Ở Nhật có khoảng 3600 công ty, trong đó có 5 công ty lớn nhất sản xuất 1,2 triệu tấn chiếm khoảng 1/2 sản lượng hàng năm . Nước tương có nhiều dạng khác nhau, nhưng Koikuchi-Shoyu là đại diện tốt nhất của nước tương lên men (Yokotsuka and Sasaki 1998). Nó là một chất lỏng nâu xậm trong với thành phần xấp xỉ: 22°Bé, 17% NaCl, 1,6% đạm tổng số, 1% đạm formol, 3% đường khử, 2,3% rượu alcohol và pH 4.7. Về cơ bản của quá trình chế biến (Hình 7.4) bao gồm 3 giai đoạn: làm koji (đậu nành lên mốc), lên men trong nước muối và lọc trong. Làm koji là quá trình lên men bề mặt của hỗn hợp đậu nành nấu/hấp và bột mì rang. Nó được chủng giống với bào tử Aspergillus oryzae hoặc A.sojae và được ủ ở 25°C trong 2-3 ngày để thu được sự phát triển dày đặc và sự tạo bào tử xanh vàng chỉ ra rằng mức độ cao của enzim đã được tạo ra. Những enzim này bao gồm peptidases, proteinases, glutaminase, amylase, pectinases và cellulases cần thiết cho sự thuỷ phân từng phần của đạm và các hợp chất carbon của vật liệu thô. </para>
+        <para id="id3228103">Giai đoạn 2 lên men trong nước muối diễn ra trong mẽ nước muối 22-25% NaCl để vi sinh vật gây hư hỏng không thể phát triển nhưng sự phân cắt enzim vẫn diễn ra. Tuy nhiên, trong 2 tháng đầu ở 15-20°C, vi khuẩn axít lactic (Tetragenococcus halophila) và những tháng tiếp theo ở 30°C, nấm men ưa muối (Zygosaccharomyces rouxii) sẽ phát triển, vào khoảng thời gian chín, những sản phẩm trao đổi chất của chúng thêm vào thành phần hương vị thực chất thơm ngon của nước tương.</para>
+        <figure id="id3228150">
+          <media id="id3041094" alt=""><image src="../../media/graphics4-ce34.png" mime-type="image/png" height="438" width="403"/></media>
+        </figure>
+        <para id="id3228173">Hình 7.4. Quy trình làm Nước tương đậu nành lên men</para>
+      </section>
+    </section>
+    <section id="id-834476662153">
+      <title>Sinh khối nấm và sự chuyển hoá sinh học</title>
+      <section id="id-340421156338">
+        <title>Nấm rơm</title>
+        <para id="id3228204">Nấm rơm (ăn được) rất phong phú và đa dạng, nhưng chỉ một vài loài đươc phát triển và thương mại hoá. Việc sản xuất nấm rơm thương mại được ước tính 1-2 triệu tấn. Agaricus spp. chiếm phần lớn trong tổng số nấm sản xuất. A. bisporus trắng là được biết nhiều nhất, nhưng A. bitorquis chống chịu vi-rút và A. bisporus mũ nâu đang được tăng lên sự chú ý. Sau khi sợi nấm chiếm đóng cơ chất, sự tạo trái được khởi động bởi sự thay đổi điều kiện môi trường (thoáng khí, ẩm độ, nhiệt độ). Quả thể được tạo thành trong số của sự nảy mầm vượt quá khoảng 1-2 tuần. Sau 4-5 đợt thu hoạch, sản lượng giảm xuống và vòng đời bắt đầu lại với cơ chất tươi mới. Cơ chất cũ dược sử dụng như thành phần thức ăn gia súc giàu protein. Quả thể lớn kỳ lạ của Basidiomycete, Ustilago maydis đươc thu thập và tiêu thụ như nấm rơm, và phổ biến ở châu Mỹ Latinh. </para>
+      </section>
+      <section id="id-0629908543416">
+        <title>Đạm đơn bào (nấm men, protein nấm)</title>
+        <para id="id3228288">Nhiều dòng nấm men (Candida utilis, C. tropicalis, Yarrowia lipolytica, Kluyveromyces lactis) có thể phát triển với sản lượng tế bào cao trên cơ chất là sản phẩm phụ công nghiệp, ví dụ như nước nhũ thanh (whey) từ làm phó-mat, nước thải từ công nghiệp tinh bột khoai tây, rượu sulfite gỗ, và cặn bã của hợp chất cac-bon. Mặc </para>
+        <para id="id3228317">dù nhiều qui trình công nghiệp đã được cấp bằng, thế nhưng đạm đơn bào thu được hiện tại là không thể cạnh tranh với các đạm khác (ví dụ như đậu nành). </para>
+        <para id="id3228328">Sợi nấm của Penicillium chrysogenum và Aspergillus niger được tạo ra ở một lượng lớn như một sản phẩm phụ của sự lên men sản xuất kháng sinh, phân hoá tố (enzim) axít hữu cơ... khuẩn ty của nấm không độc là một thành phần thức ăn lý tưởng bởi vì nó có hàm lượng đạm thô cao (xấp xỉ 12% trên trọng lượng tươi). Khuẩn ty được sử dụng như thành phần thức ăn gia súc. Giống như vậy, sợi nấm của dòng Fusarium venenatum được sử dụng cho sản xuất công nghiệp protein cho ngành dệt may (Wiebe et al., 1996).</para>
+        <para id="id3228376">Sản phẩm tìm thấy cho sự ứng dụng như thịt thay thế trong bánh nhân táo thơm, súp...Sử dụng đạm vi sinh cho sự tiêu thụ của con người và vật nuôi là bị giới hạn bởi hàm lượng axít nucleic của nó. Tổ chức WHO khuyến cáo mức độ tối đa của axít nucleic là 2% trong thực phẩm. Trong khi đạm vi khuẩn chứa mức độ khá cao axít nucleic, đạm nấm (F. venenatum) chứa khoảng 6-13%.</para>
+      </section>
+      <section id="id-238621609442">
+        <title>Làm giàu thêm đạm cho thực phẩm tinh bột và thức ăn gia súc</title>
+        <para id="id3228414">Do có khả năng phân cắt vật chất các-bon, nấm là hữu dụng trong việc nâng cao giá trị dinh dưỡng của các sản phẩm phụ nông-công nghiệp sau chế biến, chẳng hạn như tinh bột chứa trong chất cặn bã khoai lang (Yang et al., 1993) hoặc bã mía đường cellulose (Moo-Young et al., 1992). Cho mục đích thêm vào các nguồn đạm rẽ tiền như (NH4)2SO4 và urea có thể biến đổi thành đạm vì thế làm giàu dinh dưỡng thêm cho thức ăn. Sản phẩm cuối cùng (sau vài ngày lên men) có thể chứa dựng xấp xỉ 30% đạm thô trên trọng lượng khô, khi sử dụng nấm Aspergillus niger, Rhizopus spp. và Neurospora sitophila. </para>
+      </section>
+      <section id="id-629713341747">
+        <title>Thành phần thức ăn và gia vị có nguồn gốc từ nấm mốc</title>
+        <para id="id3228483">a. Axít hữu cơ</para>
+        <para id="id3228489">Axít hữu cơ được tạo ra bởi sự lên men có thể phân thành hai nhóm: (i) được tạo ra thông qua lộ trình axít carboxylic, (ii) được tạo ra trực tiếp từ đường glucose. </para>
+        <para id="id3228502">Ở nhóm (i), axít citric là axít hữu cơ quan trọng nhất được tạo ra bới sự lên men. Sản lượng hàng năm ước tính khoảng 400.000 tấn được làm chủ yếu với Aspergillus niger nhưng Yarrowia lipolytica cũng được sử dụng. Hệ thống nuôi cấy bề mặt cũng như bề sâu (chìm) được sử dụng cho sự biến đổi những nguồn carbon rẻ tiền (mật đường) và n-alkanes. Axít citric được sử dụng rộng rãi trong công nghiệp thực phẩm, chất hương vị… </para>
+        <para id="id3228540">Trong nhóm (ii) axít gluconic (50.000 tấn/năm) được làm ra chủ yếu với vi khuẩn, nhưng A. niger và A. foetidus được sử dụng trong các qui trình nuôi cấy bề mặt và nuôi cấy chìm. Axít lactic (30.000 tấn/năm) đươc làm ra chủ yếu với vi khuẩn lactic, nhưng cũng với Rhizopus oryzae và có những ứng dụng rộng rãi trong công nghiệp thực phẩm như chất axít, nhân tố bảo quản, bột nướng … (Mattey, 1992).</para>
+        <para id="id3228589">b. Chất béo (lipids)</para>
+        <para id="id3228596">Hàm lượng chất béo của nấm đôi khi có thể cao đến 60-80% sinh khối khô. Tuy nhiên, chất dầu và chất béo động và thực vật là rẻ tiền hơn để sản xuất, vì thế chỉ những sản phẩm đặc sản thì việc lên men là sự quan tâm về mặt kinh tế. Nói riêng, khả năng tích luỹ axít béo không no từ nấm là lý thú về quan điểm dinh dưỡng. Nhiều nấm mốc được sử dụng thương mại để tạo ra axít γ–linolenic, trên nguồn đạm và cac-bon rẻ tiền (bã nho, tinh bột, mật rỉ đường), Mucor javanicus và M. rouxii có thể phát triển trong môi trường nuối cấy chìm ở sản lượng axít γ–linolenic 0,33g/l. Những trường </para>
+        <para id="id3228654">hợp như thế hàm lượng lipid là 7-11% của sinh khối khô và axít γ–linolenic chiếm 17-37% trọng lượng lipid (Lindberg and Hansson, 1991).</para>
+        <para id="id3228674">c. Phân hoá tố (enzim)</para>
+        <para id="id3228681">Trong số những phân hoá tố enzim được tạo ra bởi sự lên men, chiếm đa số là enzim thuỷ phân đạm (proteases) và enzim thuỷ phân hợp chất cac-bon (carbonhydrases). Enzime thuỷ phân đạm thu được từ Aspergillus oryzae, Penicillium roquefortii và Mucor spp. được ứng dụng trong chất tẩy rửa, và trong chế biến thực phẩm như làm nhanh chín phó-mat, làm bánh mì, sự làm mềm thịt. Enzim thuỷ phân hợp chất carbon bao gồm enzim thuỷ phân tinh bột (α-amylase, glucoamylase) được tạo ra bởi Aspergillus oryzae và A. niger và được ứng dụng trong làm bánh mì, ủ bia rượu, và bánh kẹo. Những carbonhydrases khác là cellulase được tiết ra bởi A. niger, Penicillium spp. và Trichoderma reesei; enzim thuỷ phân pectin (pectinases) được tạo ra bởi Aspergillus spp.; và β–glucanase được tạo ra bởi A. niger, Penicillium spp. những enzim này được ứng dụng để thúc đẩy sự tiêu hoá của thực phẩm có sợi, sự tinh lọc nước trái cây và bia… Những enzim quan trọng khác bao gồm enzim thuỷ phân chất béo (lipases) được tạo ra bởi Mucor spp. và A. niger ứng dụng cho sự phát triển hương vị các sản phẩm từ sữa. Glucose oxidase được tạo ra bởi A. niger đã có nhiều ứng dụng trong thực phẩm và y học…</para>
+        <para id="id3228861">Mặt khác, có sự phong phú của những cơ chất có thể được tạo ra bởi nấm, bao gồm axít amin, các hợp chất đường, các sinh tố vitamins, phẩm màu và các thành phần hương vị… </para>
+      </section>
+    </section>
+  </content>
+</document>
