@@ -1,3 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10923</md:content-id>  <md:title>Giáo trình môn Nấm học</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>653771fb-5fa8-46ad-9e93-26dc0d5cf512</md:uuid>
-<md:slug>giao-trinh-mon-nam-hoc</md:slug>
-</metadata>  <col:content>          <col:module document="m30247"/>                            <col:module document="m30105"/>                            <col:module document="m30255"/>                            <col:module document="m30258"/>                            <col:module document="m30252"/>                            <col:module document="m30898"/>                            <col:module document="m30069"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Nguy&#x1EC5;n V&#x103;n Th&#xE0;nh ,Cao Ng&#x1ECD;c &#x110;i&#x1EC7;p ,Nguy&#x1EC5;n V&#x103;n B&#xE1;">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10923</md:content-id>
+    <md:title>Gi&#xE1;o tr&#xEC;nh m&#xF4;n N&#x1EA5;m h&#x1ECD;c</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>653771fb-5fa8-46ad-9e93-26dc0d5cf512</md:uuid>
+    <md:slug>giao-trinh-mon-nam-hoc</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30247"/>
+    <col:module document="m30105"/>
+    <col:module document="m30255"/>
+    <col:module document="m30258"/>
+    <col:module document="m30252"/>
+    <col:module document="m30898"/>
+    <col:module document="m30069"/>
+  </col:content>
+</col:collection>
